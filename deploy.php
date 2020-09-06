@@ -30,13 +30,13 @@ task('deploy:secrets', function () {
     upload('.env', get('deploy_path') . '/shared');
 });
 
-host()
+host('cicd.staging-dev.site')
     ->hostname('34.101.111.235')
     ->stage('production')
     ->user('root')
     ->set('deploy_path', '/var/www/html/cicd.staging-dev.site');
 
-host()
+host('cicd-dev.staging-dev.site')
     ->hostname('34.101.111.235')
     ->stage('staging')
     ->user('root')
