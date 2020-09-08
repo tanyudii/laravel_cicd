@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel Continues Integration Continues Deployment
                 </div>
 
                 <div class="links">

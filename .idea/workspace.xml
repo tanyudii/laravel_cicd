@@ -19,15 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803de3a7-75d0-423b-a7bc-29444751bbfd" name="Default Changelist" comment="add jest">
-      <change beforePath="$PROJECT_DIR$/deploy.php" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.php" afterDir="false" />
+    <list default="true" id="803de3a7-75d0-423b-a7bc-29444751bbfd" name="Default Changelist" comment="adjust deploy config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -203,6 +204,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599402189325</updated>
       <workItem from="1599402190423" duration="4703000" />
+      <workItem from="1599411877318" duration="336000" />
+      <workItem from="1599496186786" duration="36000" />
+      <workItem from="1599580825408" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="add jest">
       <created>1599404363602</created>
@@ -211,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599404363602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adjust deploy config">
+      <created>1599407803412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599407803412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,44 +238,46 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add jest" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jest" />
+    <MESSAGE value="adjust deploy config" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust deploy config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599404235592">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599404235592" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1599404606042">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1599411785181">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599404606042" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1599404606041">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599411785181" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1599411785181">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599404606041" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1599404606041">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599411785181" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1599411785180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599404606041" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1599404606041">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599411785180" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1599411785181">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599404606041" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599411785181" />
     <state x="794" y="448" key="NewPhpFileDialog" timestamp="1599403804761">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599403804761" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599404364738">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599411694328">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599404364738" />
-    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1599405608986">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599411694328" />
+    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1599408585491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="667" y="258" width="585" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599405608986" />
+    <state x="667" y="258" width="585" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599408585491" />
   </component>
 </project>
