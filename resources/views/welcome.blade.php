@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Continues Integration Continues Deployment
+                    Laravel CICD
                 </div>
 
                 <div class="links">
