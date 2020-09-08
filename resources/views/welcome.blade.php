@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel CICD
+                    Laravel Staging CICD
                 </div>
 
                 <div class="links">

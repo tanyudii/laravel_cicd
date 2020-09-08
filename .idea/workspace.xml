@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803de3a7-75d0-423b-a7bc-29444751bbfd" name="Default Changelist" comment="change title">
+    <list default="true" id="803de3a7-75d0-423b-a7bc-29444751bbfd" name="Default Changelist" comment="change title again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Jest.All Tests">
     <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
@@ -206,7 +206,8 @@
       <workItem from="1599402190423" duration="4703000" />
       <workItem from="1599411877318" duration="336000" />
       <workItem from="1599496186786" duration="36000" />
-      <workItem from="1599580825408" duration="1506000" />
+      <workItem from="1599580825408" duration="1642000" />
+      <workItem from="1599585603879" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="add jest">
       <created>1599404363602</created>
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599581240040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change title again">
+      <created>1599585422525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599585422525</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +260,8 @@
     <MESSAGE value="add jest" />
     <MESSAGE value="adjust deploy config" />
     <MESSAGE value="change title" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title" />
+    <MESSAGE value="change title again" />
+    <option name="LAST_COMMIT_MESSAGE" value="change title again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599404235592">
@@ -279,10 +288,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599403804761" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599581244041">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599585434280">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599581244041" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599585434280" />
     <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1599585254291">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
